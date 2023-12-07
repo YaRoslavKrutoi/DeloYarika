@@ -71,3 +71,52 @@ section{
     display: block;
 }
 
+        @media(max-width: 768px){
+
+            img{
+                width: 100%;
+                height: auto;
+            }
+            h1{
+                font-size: 30px;
+            }
+            .glavtext {
+                font-size: 20px;
+            }
+            .btn{
+                margin-bottom: 30px;
+            }
+            section {
+                display: block;
+            }
+           
+            .text{
+                width: 100%;
+            }
+
+            .button{
+                width: 85%;
+            }
+
+            .picture{
+                width: 100%;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
